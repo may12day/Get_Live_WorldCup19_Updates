@@ -12,6 +12,6 @@ You'll get notified with :
 
 Windows
 
-![](Screenshots/four.png)
+![](Screenshots/four.PNG)
 
-![](Screenshots/wicket.png)
+![](Screenshots/wicket.PNG)
